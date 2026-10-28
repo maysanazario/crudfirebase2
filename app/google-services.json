@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775376300520",
+    "project_id": "loja-6052f",
+    "storage_bucket": "loja-6052f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775376300520:android:1fc3162466472296e1dc5d",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4JdHS2F82oe1E8wPdJWoSN8t4GzZWUE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
